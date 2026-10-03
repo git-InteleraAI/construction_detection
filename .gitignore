@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 runs/
 .env
+frontend/node_modules/
+repomix-output.xml
